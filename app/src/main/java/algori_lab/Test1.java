@@ -1,4 +1,4 @@
-package algori_lab.ex01;
+package algori_lab;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -15,7 +15,7 @@ class Student {
     private String no;
 }
 
-public class Test {
+public class Test1 {
 
     public static void main(String[] args) {
         List<Student> list = Arrays.asList(
